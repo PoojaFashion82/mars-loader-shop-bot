@@ -1,7 +1,7 @@
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8735279973:AAF4W2ody2wP5wuoO8RmB7mK1NfnyJi-gj8"
 
 CHANNEL = "https://t.me/KavyaisLiveBgmi"
 SUPPORT = "https://t.me/Kavya_is_Live"
